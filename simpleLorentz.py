@@ -111,14 +111,4 @@ class Attractors_app:
 if __name__ == "__main__":
     app = Attractors_app()
     app.startMe()
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+    
