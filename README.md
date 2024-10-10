@@ -1,5 +1,5 @@
 # Lorenz_Attractors
-Pygame display of different Lorenz Attractors evolution shown in 2D with a piano balland company.
+Pygame display of different Lorenz Attractors evolution shown in 2-D with a piano balland company.
 
 The Lorenz system is a system of ordinary differential equations first studied by mathematician and meteorologist Edward Lorenz. 
 It is notable for having chaotic solutions for certain parameter values and initial conditions. 
